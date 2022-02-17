@@ -1,22 +1,22 @@
 ## FORMAT: <channel name> - <Country>
 
-東森新聞 - Taiwan
-https://www.youtube.com/watch?v=R2iMq5LKXco
+Aljazera
+https://www.youtube.com/watch?v=eJ6ZMd4sVrI
 
-東森財經 - Taiwan
-https://www.youtube.com/watch?v=ABn_ccXn_jc
+Ary news
+https://www.youtube.com/watch?v=uiJXIkM3MoQ
 
-TVBS新聞 - Taiwan
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+Geo news
+https://www.youtube.com/watch?v=HyvzF8GzQ6c
 
-台視新聞 - Taiwan
-https://www.youtube.com/watch?v=xL0ch83RAK8
+24 news hd
+https://www.youtube.com/watch?v=Lyep3luRibY
 
-民視新聞 - Taiwan
-https://www.youtube.com/watch?v=XGEmg3vhrzU
+Dunya News
+https://www.youtube.com/watch?v=c_DK7DgIaR8
 
-華視新聞 - Taiwan
-https://www.youtube.com/watch?v=yUTy1U1wTwE
+HUM News
+https://www.youtube.com/watch?v=F62HJQWFFHU
 
 ABC News (US) - US
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -38,9 +38,3 @@ https://www.youtube.com/watch?v=jNhh-OLzWlE
 
 RT - Russia
 https://www.youtube.com/watch?v=V0I5eglJMRI
-
-Test Fail Link - FBK
-https://www.youtube.com/watch?v=aaa
-
-
-
